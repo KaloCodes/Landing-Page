@@ -236,3 +236,18 @@ body {
     font-size: 22px;
 }
 
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #1f2937;
+    padding: 47px 0px;
+}
+
+.footer p {
+    color: #e5e7e8;
+    font-size: 18px;
+}
+
